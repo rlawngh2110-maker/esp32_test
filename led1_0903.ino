@@ -7,8 +7,8 @@ void setup() {
 
 void loop() {
   digitalWrite(LED_PIN, HIGH);  // LED 켜기
-  delay(1000);                       // 1초 대기
+  delay(800);                       // 1초 대기
   digitalWrite(LED_PIN, LOW);   // LED 끄기
-  delay(1000);                        // 1초 대기
+  delay(800);                        // 1초 대기
 } //수정 완료!!
 
