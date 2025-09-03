@@ -10,5 +10,5 @@ void loop() {
   delay(1000);                       // 1초 대기
   digitalWrite(LED_PIN, LOW);   // LED 끄기
   delay(1000);                        // 1초 대기
-} //수저완료
+} //수정 완료!!
 
